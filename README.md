@@ -1,4 +1,4 @@
-# Flask-Generate
+## Flask-Generate
 
 There are many methods and conventions for structuring Python web applications.
 Although certain frameworks are shipped with tools (for scaffolding) to automate -- and ease -- the task (and the headaches),
